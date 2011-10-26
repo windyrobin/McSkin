@@ -1,0 +1,4 @@
+a simple memcache-pool based on node-memcache;
+At first you should be familiar with node-memcache
+
+please see the test file to know how to use it 
